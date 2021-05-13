@@ -1,0 +1,4 @@
+baseURL = "http://www.ovitur.com/"
+languageCode = "en-us"
+title = "Online Booking System"
+theme = "simplicity"

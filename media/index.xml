@@ -1,14 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Media Folder on Ovitur, Online Booking System</title>
-    <link>http://www.ovitur.com/media/</link>
-    <description>Recent content in Media Folder on Ovitur, Online Booking System</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-    
-      <atom:link href="http://www.ovitur.com/media/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Media Folder on Online Booking System</title><link>http://www.ovitur.com/media/</link><description>Recent content in Media Folder on Online Booking System</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://www.ovitur.com/media/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
